@@ -1,5 +1,0 @@
-Record=TopLevelDocument|FileName=manilla.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=manilla.SchDoc|Designator=B1|SchDesignator=B1|FileName=Cargador.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Cargador.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=manilla.SchDoc|Designator=B2|SchDesignator=B2|FileName=alimentación.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=alimentación.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=manilla.SchDoc|Designator=B3|SchDesignator=B3|FileName=Procesador.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Procesador.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=manilla.SchDoc|Designator=B4|SchDesignator=B4|FileName=IR.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
